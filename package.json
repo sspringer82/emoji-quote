@@ -1,0 +1,22 @@
+{
+  "name": "emoji-quote",
+  "version": "0.0.1",
+  "description": "Do stuff with emojis",
+  "main": "index.js",
+  "private": true,
+  "bin": {
+    "emoji-quote": "bin/emoji-quote.mjs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "/Users/sebastians/projects/src/../../git/emoji-quote/"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-emoji": "^1.8.1"
+  }
+}
